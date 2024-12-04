@@ -42,7 +42,7 @@ Clone the project using Git:
 
 bash
 Copy code
-git clone https://github.com/janhvi-pandey/VRV-Security-Frontend-Assignment.git  
+git clone https://github.com/amnbaluni/RBAC-Project
 ### 2️⃣ Navigate to the Project Directory
 Go to the frontend directory of the project:
 
