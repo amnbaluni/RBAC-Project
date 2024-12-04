@@ -39,26 +39,28 @@ Follow these steps to set up and run the project on your local environment.
 
 ### 1️⃣ Clone the Repository
 Clone the project using Git:
-git clone https://github.com/amnbaluni/RBAC-Project
+
+             git clone https://github.com/amnbaluni/RBAC-Project
+
+             
 ### 2️⃣ Navigate to the Project Directory
 Go to the frontend directory of the project:
 
-bash
-Copy code
-cd VRV-Security-Frontend-Assignment/frontend  
+   - cd VRV-Security-Frontend-Assignment/frontend
+
+   - 
 ### 3️⃣ Install Dependencies
 Install all the necessary packages:
 
-bash
-Copy code
-npm install  
+    npm install  
+
+    
 ### 4️⃣ Start the Application
 Run the development server:
 
-bash
-Copy code
-npm start  
+     npm start  
 The application will be available at http://localhost:3000 in your browser.
+
 
 ## 🧪 Testing and Development
 Use React DevTools for debugging components and state.
